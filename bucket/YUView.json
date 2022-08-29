@@ -11,6 +11,9 @@
         }
     },
     "bin": ["YUView.exe"],
+    "shortcuts":[
+        ["AppData\\YUView.exe", "YUView"]
+    ],
     "autoupdate": {
         "architecture": {
             "64bit": {
