@@ -15,16 +15,19 @@
     },
     "bin": [
         [
-            "ffmpeg.exe -hide_banner",
-            "ffmpeg"
+            "ffmpeg.exe",
+            "ffmpeg",
+            "-hide_banner"
         ],
         [
-            "ffplay.exe -hide_banner",
-            "ffplay"
+            "ffplay.exe",
+            "ffplay",
+            "-hide_banner"
         ],
         [
-            "ffprobe.exe -hide_banner",
-            "ffprobe"
+            "ffprobe.exe",
+            "ffprobe",
+            "-hide_banner"
         ]
     ],
     "checkver": {
