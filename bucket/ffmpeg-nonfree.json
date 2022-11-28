@@ -1,16 +1,16 @@
 {
-    "version": "m-2022-11-23-12-11",
+    "version": "m-2022-11-28-17-31",
     "description": "FFmpeg latest nonfree git/snapshot/development/master/nightly builds with additional libraries/dependencies.",
     "license": "GPL-3.0-or-later",
     "homepage": "https://github.com/AnimMouse/ffmpeg-autobuild",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/m-2022-11-23-12-11/ffmpeg-98f6c59-bedd386-win32-nonfree.7z",
-            "hash": "e4b18b8b0271256eed31aecdfefd1ba76acf2bc70acc06e8bf853da3d8bb9d75"
+            "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/m-2022-11-28-17-31/ffmpeg-2324b91-bedd386-win32-nonfree.7z",
+            "hash": "2751ccc46bf33954d0406d514826157731814bef5031633b9badfea6cb13bfaf"
         },
         "64bit": {
-            "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/m-2022-11-23-12-11/ffmpeg-98f6c59-bedd386-win64-nonfree.7z",
-            "hash": "2ce20c243b09690d3895f21daa8a689aee127f00d8fd0baec4d46b659653dcb2"
+            "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/m-2022-11-28-17-31/ffmpeg-2324b91-bedd386-win64-nonfree.7z",
+            "hash": "f46ea3b15fb7a4af97420f47d32ea2ea96f54217dc99d85f7097d340b898eabf"
         }
     },
     "bin": [
