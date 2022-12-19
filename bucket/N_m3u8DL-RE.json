@@ -1,5 +1,5 @@
 {
-    "version": "0.1.5-beta+20221212",
+    "version": "0.1.5.1-beta+20221219",
     "description": "DASH/HLS/MSS stream downloader supporting on-demand & live broadcasts",
     "homepage": "https://github.com/nilaoda/N_m3u8DL-RE",
     "license": "MIT",
@@ -17,8 +17,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nilaoda/N_m3u8DL-RE/releases/download/v0.1.5-beta/N_m3u8DL-RE_Beta_win-x64_20221212.zip",
-            "hash": "63adbe3f8387a52dce397f21fe1a291f26b2eb04916d1c69b841683f488385c6",
+            "url": "https://github.com/nilaoda/N_m3u8DL-RE/releases/download/v0.1.5.1-beta/N_m3u8DL-RE_Beta_win-x64_20221219.zip",
+            "hash": "3b126af3f46be6d86248fb31b0613a5874f9ad74cdf845045591eebaadedae6d",
             "extract_dir": "N_m3u8DL-RE_Beta_win-x64"
         }
     },
